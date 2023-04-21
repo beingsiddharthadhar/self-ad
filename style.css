@@ -1,0 +1,73 @@
+p{color:red;}
+body{background-color:aquamarine;
+
+}
+.a{
+    text-align:center;
+}
+.c{
+    color:blue;
+    border-color:aqua;
+    border-width:10px;
+    border: 2px dashed hotpink;
+    padding: 15px 20px;
+    border-radius: 7px;
+    text-align:center;
+    font-size: larger;
+    background-color: olive;
+}
+.l{
+    text-align:center;
+}
+a:hover{
+    background-color: black;
+    color:white;
+    cursor:crosshair;
+}
+h2{color:blueviolet;
+font-family: 'Times New Roman', Times, serif;
+font-style: italic;
+font-stretch: expanded;
+}
+h2:hover{
+    background:red;
+    color:white;
+    cursor:grab;
+}
+header{
+    font:bolder;
+    font-style: initial;
+    font-style: oblique;
+}
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    color:forestgreen;
+}
+h3:hover{
+    background-color: aquamarine;
+    color:black;
+    cursor:pointer;
+}
+.class{
+    border-color:gold;
+    border-style:double;
+    border-width:2px;
+    
+
+}
+#qualify ul li{
+    color:aquamarine;
+    background-color: blue;
+
+}
+
+#t{
+    color:black;
+    background-color: tomato;
+    border: 4px dashed green;
+    padding: 13px 13px;
+    margin: 10px 10px;
+    word-spacing: 3px;
+    letter-spacing: 2px;
+}
+
